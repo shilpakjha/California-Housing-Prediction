@@ -6,7 +6,6 @@ The US Census Bureau has published California Census Data which has 10 types of 
 
 ## Data Dictionary
 
-* TField	Description
 * longitude	(signed numeric - float) : Longitude value for the block in California, USA
 * latitude	(numeric - float ) : Latitude value for the block in California, USA
 * housing_median_age	(numeric - int ) : Median age of the house in the block
